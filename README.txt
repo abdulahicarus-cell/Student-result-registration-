@@ -14,7 +14,7 @@ results.txt     Sample data file, 10 records, one per line
 
 Data format in results.txt (comma separated, no spaces around the commas):
 RegNo,Name,Course,Marks
-Example: VU-BCS-2507-1756-DAY,ATEGEKA ANDREW,Computer Science,78
+Example: VU-BSF-2507-3606-DAY,ABDULLAHI MOHAMED ,SOFTWERE ENGINEERING ,78
 
 *************************
 2. REQUIREMENTS
